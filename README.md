@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Software Development
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Software Development projects
-- 📫 I can be reached by emai
+- 📫 I can be reached by email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I learn very quick, and I am very proactive.
 
